@@ -1,0 +1,35 @@
+.body_backgorund {
+    background-color: cornflowerblue;
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+   font-weight: bold;
+    cursor: pointer;
+  }
+  h1
+  {
+      color: black; 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  #b1 {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 20px;
+    width: 20%;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
